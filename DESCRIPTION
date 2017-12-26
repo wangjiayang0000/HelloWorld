@@ -1,0 +1,13 @@
+Package: HelloWorld
+Type: Package
+Title: Used to test GitHub
+Version: 0.1.0
+Author: Jiayang Wang
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/wangjiayang0000/HelloWorld.git
+BugReports: https://github.com/wangjiayang0000/HelloWorld.git/issues
