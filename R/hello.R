@@ -14,5 +14,7 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, world!")
+  for ( i in 1:10){
+    print("Hello, world!")
+  }
 }
